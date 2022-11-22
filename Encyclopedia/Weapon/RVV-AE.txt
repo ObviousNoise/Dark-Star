@@ -1,0 +1,46 @@
+RVV-AE
+Weapon/RVV-AE.png
+RVV-AE
+
+
+Name: RVV-AE-PD R-77 RamJet Variant
+
+Type:Medium-range, active radar homing air-to-air missile
+
+Production history: Manufacturer Vympel
+
+Specifications Weight:
+175 kg (R-77), 190 kg 
+
+Length
+3.6 m (R-77), 3.71 m 
+
+Diameter
+200 mm
+
+Warhead
+22.5 kg HE fragmenting
+Detonation
+
+mechanism
+laser proximity fuze
+
+Engine
+Solid fuel rocket motor (R-77), air-breathing ramjet (R-77-PD)
+
+Wingspan
+700 mm
+
+Operational range:193km
+
+Flight altitude
+5–25 km (16,000–82,000 ft)
+
+Speed: Mach 4
+
+Guidance system:
+Inertial with mid-course update and terminal active radar homing
+
+Launch platforms:
+Mikoyan-Gurevich MiG-21-93/LanceR/Bison, Mikoyan-Gurevich MiG-23, Mikoyan-Gurevich MiG-25, Mikoyan-Gurevich MiG-27, Mikoyan MiG-29, Mikoyan MiG-31, Mikoyan MiG-35, Sukhoi Su-27, Sukhoi Su-30, Sukhoi Su-33, Sukhoi Su-34, Sukhoi Su-35, HAL Tejas, Yakovlev Yak-141, Chengdu J-10,
+Sukhoi Su-57

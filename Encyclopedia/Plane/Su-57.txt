@@ -1,0 +1,36 @@
+Su-57
+Su-57/Su-57.png
+Su-57
+
+Name: Su-57 Felon
+Type: 5th Generation Multi-Role Stealth Aircraft
+Crew: 1
+Length: 19.8 m
+Wing span: 13.95 m
+Height: 4.74 m
+Wing area: 78.8 m
+Weight empty: 18500 kg
+Normal weight: 13800 kg
+Maximum weight: 29.270 kg
+Maximum internal fuel: 10.300 kg
+Maximum Mach at height: 2.2
+Maximum SuperCruise 1.6
+Service ceiling: 20000 m
+Maximum range: 3500 km
+G limit: 9.0
+Thrust/weight: AL41F1 "1.02",izdeliye 30 "1.16".
+
+
+Armament: 
+ Guns: 1 x 30 mm Gryazev-Shipunov Gsh 301 cannon, 150 rounds
+ 
+Missiles:
+  -R-73 "Short Range"
+  -R-77 "Medium Range"
+  -RVV-AE :Medium-Long Range
+  -RVV-M  :Medium-Long Range
+  -RVV-BD "Long Range"
+  -RVV-L  :Long Range
+
+HardPoints: 12 hardpoints Total (6 internaly and 6 externally).
+

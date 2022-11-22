@@ -1,0 +1,45 @@
+RVV-L
+Weapon/RVV-L.png
+RVV-L
+
+
+Name: RVV-L (KS-172)
+Type: Long range air-to-air missile
+Place of origin: Russia and India
+Manufacturer: NPO Novator & DRDO
+
+Specifications
+Weight
+748 kg (1,650 lb) 
+
+Length
+6.01 m (19.7 ft) + 1.4 m (4.6 ft)
+
+Diameter
+40 cm (16 in) 
+
+Warhead
+HE fragmentation 
+Warhead weight
+50 kg (110 lb)
+
+Engine
+Solid-propellant tandem rocket booster 
+
+Wingspan
+61 cm (24 in) 
+
+Operational range:
+At least 200 km, possibly 300–400 km (160–210 nmi)
+
+Flight altitude:
+3 m (9.8 ft)–30,000 m (98,000 ft) 
+
+Speed:
+4,000 km/h (2,500 mph; 1.1 km/s; Mach 3.3) 
+
+Guidance system:
+inertial navigation with midcourse guidance and terminal active radar homing
+
+Launch platform:
+Su-27, Su-30, Su-35,Su-30MKI,Su-57.

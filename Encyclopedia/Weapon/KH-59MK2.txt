@@ -1,0 +1,42 @@
+KH-59MK2
+Weapon/KH-59MK2.png
+KH-59MK2
+
+
+Name: KH-59MK2
+
+Dimensions:
+
+Diameter: 400 millimeter (15.7 inch)
+Length: 4.20 meter (165 inch)
+Wingspan: 1.30 meter
+
+Performance:
+
+CEP: 3 meter
+Max Cruising Flight Altitude: 300 meter
+Max Launch Altitude: 11,000 meter
+Max Range: 290 kilometer (157 nautical mile)
+Min Cruising Flight Altitude: 50 meter
+Min Launch Altitude: 200 meter
+
+Speed
+Cruise Speed: 900 kph (0.75 mach)
+Max Launch Airspeed: 0.90 mach (1,076 kph)
+Min Launch Airspeed: 0.50 mach (598 kph)
+Top Speed: 1,000 kph (0.84 mach)
+
+Weight
+Warhead: 310 kilogram (683 pound)
+Weight: 770 kilogram (1,698 pound)
+
+Information:
+
+The Kh-59MK2 is a stealth air-launched, 
+fire-and-forget, highly subsonic cruise 
+missile featuring an improved engine which 
+provides a maximum range in excess of 290 
+kilometers,Its guidance system combines
+automatic inertial navigation and terrain
+recognition with one or more target's area
+pre-programmed in the flying mission.

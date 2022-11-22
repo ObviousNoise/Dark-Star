@@ -1,0 +1,38 @@
+RVV-BD
+Weapon/RVV-BD.png
+RVV-BD
+
+
+Name: RVV-BD R-37 Advanced Variant
+Type:air-to-air missile
+Place of origin
+Russia
+
+Specifications
+Weight
+600 kilograms (1,320 lb)
+
+Length
+4.20 metres (13 ft 9 in)
+
+Diameter
+38 centimetres (15 in)
+
+Warhead
+HE, fragmenting
+Warhead weight
+60 kg (135 lb)
+
+Wingspan
+0.7 m (2 ft 4 in)
+
+Propellant
+Solid rocket
+
+Operational range:
+150-398 km
+
+Speed Mach: 6
+
+Guidance system:
+Inertial with mid-course update, semi-active and active radar homing
